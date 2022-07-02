@@ -8,6 +8,7 @@ https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma
 1. Clone the repo
 2. Run npm install in the repo directory
 3. Run it with npm start
+4. Enjoy :)
 
 ## Live version on the link below
 
